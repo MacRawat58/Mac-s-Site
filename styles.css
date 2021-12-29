@@ -119,7 +119,8 @@ padding-top: 100px;
 }
 .bottomP
 {
-	
+	width: 20%;
+    	margin: auto;
 	padding: 20px 0;
 	font-size: 0.75rem;
 	color:#EAF6F6;
