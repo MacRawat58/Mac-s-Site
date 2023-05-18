@@ -39,6 +39,11 @@ position: relative;
 padding-top: 100px;
 
 }
+
+.profile-pic{
+	border-radius: 50;
+}
+
 .middle-container
 {
 	margin:100px 0;
